@@ -13,6 +13,26 @@
 # PATREON: https://www.patreon.com/Neversink
 
 #--------------------------
+# Overrides - GLOBAL
+#--------------------------
+
+# Wanted Bases
+Show
+SetBorderColor 200 0 0
+SetFontSize 38
+ItemLevel >= 68
+Rarity Rare
+BaseType == "Rattling Sceptre"
+MinimapIcon 1 Red Moon
+
+
+
+
+
+
+
+
+#--------------------------
 # Overrides - Uniques, Valuables
 #--------------------------
 
