@@ -259,6 +259,13 @@ Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35
 
+Show
+Quality > 0
+Rarity Normal Magic Rare
+BaseType "Wand" "Staff" "Sceptre"
+SetBorderColor 0 0 200
+#SetFontSize 30
+
 #--------------------------
 # OPTIONAL RULES
 #--------------------------
