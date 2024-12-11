@@ -21,7 +21,7 @@ Show
 SetBorderColor 200 0 0
 SetFontSize 38
 ItemLevel >= 68
-Rarity Rare
+Rarity Normal Magic Rare
 BaseType == "Rattling Sceptre"
 MinimapIcon 1 Red Moon
 
