@@ -22,7 +22,7 @@ SetBorderColor 200 0 0
 SetFontSize 38
 ItemLevel >= 68
 Rarity Normal Magic Rare
-BaseType == "Rattling Sceptre"
+BaseType == "Rattling Sceptre" "Expert Dualstring Bow" "Expert Hexer's Robe" "Expert Keth Raiment" "Expert Bombard Crossbow" "Expert Altar Robe"
 MinimapIcon 1 Red Moon
 
 
