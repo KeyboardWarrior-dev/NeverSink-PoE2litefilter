@@ -75,6 +75,10 @@ Hide
 Rarity Normal Magic Rare
 BaseType == "Cultist Bow" "Withered Wand" "Frigid Wand" "Torture Wand" "Critical Wand" "Dueling Wand" "Bone Wand" "Volatile Wand" "Offering Wand" "Primordial Wand"
 
+# Hide scrolls
+Hide
+Class "Currency"
+BaseType "Wisdom"
 
 
 
@@ -328,13 +332,6 @@ Quality > 10
 Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35
-
-Show
-Quality > 0
-Rarity Normal Magic Rare
-BaseType "Wand" "Staff" "Sceptre"
-SetBorderColor 0 0 200
-#SetFontSize 30
 
 #--------------------------
 # OPTIONAL RULES
