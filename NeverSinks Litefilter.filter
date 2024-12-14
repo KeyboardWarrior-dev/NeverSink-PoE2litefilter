@@ -22,8 +22,58 @@ SetBorderColor 200 0 0
 SetFontSize 38
 ItemLevel >= 68
 Rarity Normal Magic Rare
-BaseType == "Rattling Sceptre" "Expert Dualstring Bow" "Expert Hexer's Robe" "Expert Keth Raiment" "Expert Bombard Crossbow" "Expert Altar Robe"
+BaseType == "Rattling Sceptre" "Expert Dualstring Bow" "Expert Hexer's Robe" "Expert Keth Raiment" "Expert Bombard Crossbow" "Expert Altar Robe" "Expert Slicing Quarterstaff" "Expert Gothic Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Leaden Greathammer" "Expert Crumbling Maul" "Expert Oak Greathammer"
 MinimapIcon 1 Red Moon
+
+# Good ES Body Armour
+Show
+SetBorderColor 200 0 0
+SetFontSize 38
+ItemLevel >= 68
+Rarity Normal Magic Rare
+Class "Body Armour"
+BaseEnergyShield >= 140
+MinimapIcon 1 Red Moon
+
+# Good ES Helmets
+Show
+SetBorderColor 200 0 0
+SetFontSize 38
+ItemLevel >= 68
+Rarity Normal Magic Rare
+Class "Helmet"
+BaseEnergyShield >= 80
+MinimapIcon 1 Red Moon
+
+# Good ES Gloves
+Show
+SetBorderColor 200 0 0
+SetFontSize 38
+ItemLevel >= 68
+Rarity Normal Magic Rare
+Class "Gloves"
+BaseEnergyShield >= 33
+MinimapIcon 1 Red Moon
+
+# Good ES Boots
+Show
+SetBorderColor 200 0 0
+SetFontSize 38
+ItemLevel >= 68
+Rarity Normal Magic Rare
+Class "Boots"
+BaseEnergyShield >= 60
+MinimapIcon 1 Red Moon
+
+# Useless Weapon types
+Hide
+Rarity Normal Magic Rare
+Class == "One Hand Maces" "Staves"
+
+# Useless Bases
+Hide
+Rarity Normal Magic Rare
+BaseType == "Cultist Bow" "Withered Wand" "Frigid Wand" "Torture Wand" " Critical Wand" " Dueling Wand" "Bone Wand" "Volatile Wand" "Offering Wand" "Primordial Wand"
 
 
 
