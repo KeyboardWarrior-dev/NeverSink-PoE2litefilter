@@ -73,7 +73,7 @@ Class == "One Hand Maces" "Staves"
 # Useless Bases
 Hide
 Rarity Normal Magic Rare
-BaseType == "Cultist Bow" "Withered Wand" "Frigid Wand" "Torture Wand" " Critical Wand" " Dueling Wand" "Bone Wand" "Volatile Wand" "Offering Wand" "Primordial Wand"
+BaseType == "Cultist Bow" "Withered Wand" "Frigid Wand" "Torture Wand" "Critical Wand" "Dueling Wand" "Bone Wand" "Volatile Wand" "Offering Wand" "Primordial Wand"
 
 
 
