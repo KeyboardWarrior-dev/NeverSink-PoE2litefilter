@@ -21,7 +21,7 @@ Show
 SetBorderColor 200 0 0
 SetFontSize 38
 ItemLevel >= 68
-Rarity Normal Magic Rare
+Rarity Rare
 BaseType == "Rattling Sceptre" "Expert Dualstring Bow" "Expert Hexer's Robe" "Expert Keth Raiment" "Expert Bombard Crossbow" "Expert Altar Robe" "Expert Slicing Quarterstaff" "Expert Gothic Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Leaden Greathammer" "Expert Crumbling Maul" "Expert Oak Greathammer"
 MinimapIcon 1 Red Moon
 
